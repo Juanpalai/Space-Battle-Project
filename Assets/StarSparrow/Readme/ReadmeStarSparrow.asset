@@ -18,7 +18,7 @@ MonoBehaviour:
   - heading: Complete Collection
     text: This spaceship set is a free sample from our Ultimate Spaceships Creator.
     linkText: Click here to get the complete collection now!
-    url: http://u3d.as/2zmk
+    url: http://u3d.as/J0F
   - heading: More Sci-Fi Content
     text: 
     linkText: Space Stations Creator
@@ -47,22 +47,26 @@ MonoBehaviour:
     text: 
     linkText: Alien Modular Space Stations
     url: http://u3d.as/1xub
-  - heading: 
-    text: 
-    linkText: Ground Units Creator
-    url: http://u3d.as/1PG3
   - heading: Building a High Resolution Game?
     text: 
     linkText: Check our Hi-Rez Spaceships Creator
     url: http://u3d.as/1BrS
-  - heading: Need Polygon Styled Spaceships?
-    text: 
-    linkText: Polygon Spaceships Creator
-    url: http://u3d.as/2HFX
   - heading: Build Your Own Spaceships
-    text: You can build your own spaceships by quickly modifying the modular examples.
-      In addition, you can also assemble your own spaceship from scratch by moving/rotating/scaling
-      and duplicating the modules.
+    text: You can build your own spaceships by quickly modifying the examples located
+      in the Examples Modular scene. In addition, you can also assemble your own
+      spaceship from scratch by opening up the modules scene and moving/rotating/scaling
+      and duplicating the modules until you have something you are happy with.
+    linkText: 
+    url: 
+  - heading: Unified Materials
+    text: 'The materials listed under unified are compatible when using different
+      spaceships from our Unity Asset Store collection. '
+    linkText: 
+    url: 
+  - heading: 
+    text: These materials enable you to combine modules from different spaceship
+      sets included in our Ultimate Spaceships Creator, or to create factions with
+      a unified color.
     linkText: 
     url: 
   - heading: Changing Colors
@@ -74,15 +78,11 @@ MonoBehaviour:
     url: 
   - heading: Can I Use This Asset in My Game?
     text: Yes! You can use this asset in your free or commercial game. We wish you
-      all the best in your projects!
+      all the best in all of your projects!
     linkText: 
     url: 
   - heading: 
     text: 
     linkText: Support Thread
     url: https://forum.unity.com/threads/released-modular-spaceships-collection.518276/
-  - heading: Note
-    text: If you do not wish to see this text, you can simply delete the Readme folder.
-    linkText: 
-    url: 
   loadedLayout: 1
